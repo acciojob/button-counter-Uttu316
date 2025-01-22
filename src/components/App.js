@@ -15,4 +15,5 @@ const App = ()=>{
     <p>Button clicked {count} times</p>
     <button onClick={onAdd}>Click me</button>
     </div>
+  )
 }
